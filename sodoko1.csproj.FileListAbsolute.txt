@@ -1,0 +1,15 @@
+E:\usb\term5\sistem\sodoko1\sodoko1\obj\Release\sodoko1.csprojAssemblyReference.cache
+E:\usb\term5\sistem\sodoko1\sodoko1\obj\Release\sodoko1.csproj.CoreCompileInputs.cache
+E:\usb\term5\sistem\sodoko1\sodoko1\obj\Release\sodoko1.exe
+E:\usb\term5\sistem\sodoko1\sodoko1\obj\Release\sodoko1.pdb
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\bin\Release\sodoko1.exe.config
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\bin\Release\sodoko1.exe.manifest
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\bin\Release\sodoko1.application
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\bin\Release\sodoko1.exe
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\bin\Release\sodoko1.pdb
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.exe.manifest
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.application
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.exe
+C:\Users\ASUS\Desktop\sodoko1\sodoko1\obj\Release\sodoko1.pdb
